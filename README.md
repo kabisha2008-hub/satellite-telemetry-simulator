@@ -7,6 +7,12 @@ It monitors temperature, battery voltage, and altitude,
 detects unusual readings, and displays the results through
 an interactive Streamlit dashboard.
 
+
+## Dashboard Preview
+
+![Satellite Telemetry Dashboard](screenshots/dashboard.png)
+
+
 ## ✨ Features
 - Generates 20 simulated satellite readings
 - Monitors temperature, voltage, and altitude
